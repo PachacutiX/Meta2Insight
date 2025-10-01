@@ -210,3 +210,7 @@ __marimo__/
 .Rhistory
 .RData
 .Rproj.user/
+
+# Big data files
+data/*
+!data/README.md
