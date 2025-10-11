@@ -217,5 +217,10 @@ data/*
 
 # Other files
 vscinter.sh
+<<<<<<< HEAD
 code/picrust2_testruns/stratified/picrust2_stratified_pipeline.sh
 code/picrust2_testruns/unstratified/picrust2_unstratified_pipeline.sh
+=======
+code/pircrust2_testruns/stratified/picrust2_stratified_pipeline.sh
+code/pircrust2_testruns/unstratified/picrust2_unstratified_pipeline.sh
+>>>>>>> 76f123e964e0601989ed3127b91c711ab8dbded1
