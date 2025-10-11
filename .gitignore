@@ -214,3 +214,6 @@ __marimo__/
 # Big data files
 data/*
 !data/README.md
+
+# Other files
+vscinter.sh
