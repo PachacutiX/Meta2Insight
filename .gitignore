@@ -217,3 +217,5 @@ data/*
 
 # Other files
 vscinter.sh
+code/pircrust2_testruns/stratified/picrust2_stratified_pipeline.sh
+code/pircrust2_testruns/unstratified/picrust2_unstratified_pipeline.sh
