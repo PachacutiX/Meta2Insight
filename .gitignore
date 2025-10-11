@@ -214,3 +214,8 @@ __marimo__/
 # Big data files
 data/*
 !data/README.md
+
+# Other files
+vscinter.sh
+code/picrust2_testruns/stratified/picrust2_stratified_pipeline.sh
+code/picrust2_testruns/unstratified/picrust2_unstratified_pipeline.sh
