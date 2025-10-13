@@ -1,2 +1,4 @@
-# MSc work
-This repository contains all data regarding the work on my master's thesis, including data files, R-markdowns, Bash scripts, etc. 
+# Metagenomic data to 16S to process insight
+This repository contains code that aims to extract process insight for biogas-producing anaerobic digesters (ADs) from metagenomic data. This may encompass information about the overall microbial community, substrate degradation, or process stability. 
+
+Note that no data is uploaded to this repository.
